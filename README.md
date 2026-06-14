@@ -103,9 +103,12 @@ The application uses a **Stacking Ensemble Learning** approach.
 ### AI Assistant
 
 - Groq API
-- Llama 3.1 8B Instant
+
 
 ---
+
+## Download APK
+[Download APK](https://github.com/abdullah6163/Rice_Leaf_Disease_Detection/blob/master/app/apk/Rice%20Leaf%20Disease%20Detection.apk)
 
 # 📷 Application Screens
 
