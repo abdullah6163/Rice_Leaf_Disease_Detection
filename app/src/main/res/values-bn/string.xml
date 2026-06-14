@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">ধানের রোগ নির্ণয়</string>
+    <string name="app_title">ধানের রোগ নির্ণয়</string>
+    <string name="start_diagnosis">পাতা পরীক্ষা শুরু করুন</string>
+    <string name="choose_image">ধানের পাতার রোগ শনাক্ত করতে ছবি তুলুন বা আপলোড করুন।</string>
+    <string name="take_photo">ছবি তুলুন</string>
+    <string name="upload_photo">ছবি আপলোড</string>
+    <string name="instant_capture">ক্যামেরা ব্যবহার করুন</string>
+    <string name="from_gallery">গ্যালারি থেকে</string>
+    <string name="disease_info">রোগের তথ্য</string>
+    <string name="last_result">শেষ ফলাফল</string>
+    <string name="ai_chat">AI চ্যাট</string>
+    <string name="language">ভাষা 🌐</string>
+    <string name="image_step" tools:ignore="ExtraTranslation">📸&#10;ছবি</string>
+    <string name="predict_step" tools:ignore="ExtraTranslation">🔍&#10;শনাক্ত</string>
+    <string name="advice_step" tools:ignore="ExtraTranslation">🌾&#10;পরামর্শ</string>
+    <string name="leaf_scan">পাতার ছবি</string>
+    <string name="preview_leaf">নির্বাচিত ধানের পাতার ছবি দেখুন</string>
+    <string name="change_image">পরিবর্তন</string>
+    <string name="scan_now">স্ক্যান করুন</string>
+    <string name="model_predicting">মডেল রোগ শনাক্ত করছে...</string>
+</resources>
